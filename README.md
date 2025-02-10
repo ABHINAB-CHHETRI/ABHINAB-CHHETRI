@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinab Chhetri.</h1>
-<h3 align="center">I'm from Nepal and currently in my second year of studying Computer Science. I'm committed to grow my understanding of technology through both theoretical and practical learning experiences. My goal is to develop a strong foundation in computer science principles and apply this knowledge to real challenges.</h3>
+<h3 align="center">I'm from Nepal and currently in my second year of studying Computer Science. I'm trying to grow my understanding of technology through both theoretical and practical learning experiences. My goal is to develop a strong foundation in computer science principles and apply this knowledge to real challenges.</h3>
 
 - 🌱 I’m currently learning **DBMS(mySQL)**
 

@@ -1,7 +1,10 @@
-# 💫 Abhinab Chhetri
+<h1 align="center">💫 Abhinab Chhetri</h1>
+<h3 align="center">
+  From Nepal | 2nd Year Computer Science Student<br>
+  Passionate about building a strong foundation in CS and solving real-world challenges through code.
+</h3>
 
-### From Nepal | 2nd Year Computer Science Student  
-Passionate about building a strong foundation in CS and solving real-world challenges through code.
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhinab-budha-chheri-46b47a350/" target="_blank">
@@ -18,19 +21,25 @@ Passionate about building a strong foundation in CS and solving real-world chall
   </a>
 </p>
 
-## 💻 Tech Stack
+---
+
+### 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,css,html,matlab,r,autocad,python,mysql,sqlite,unity,redis,gcp,tensorflow" alt="Tech Stack" />
 </p>
 
-## 📈 My Coding Journey
+---
+
+### 📈 My Coding Journey
 
 - 🔭 Currently exploring databases, algorithms, and real-world applications of CS.
-- 🏆 Active on [Kaggle](https://kaggle.com/abhinabbudhachheri) & [LeetCode](https://leetcode.com/u/abhinab_chhetri/) — always up for a challenge!
+- 🏆 Active on <a href="https://kaggle.com/abhinabbudhachheri" target="_blank">Kaggle</a> & <a href="https://leetcode.com/u/abhinab_chhetri/" target="_blank">LeetCode</a> — always up for a challenge!
 - 💡 Eager to collaborate on open-source and impactful tech projects.
 
-## 🏅 Notable Profiles
+---
+
+### 🏅 Notable Profiles
 
 <p align="center">
   <a href="https://kaggle.com/abhinabbudhachheri" target="_blank">
@@ -41,12 +50,6 @@ Passionate about building a strong foundation in CS and solving real-world chall
   </a>
 </p>
 
-### 🚀 Additional Sections
+---
 
-- **Projects:** Add a section highlighting your top coding or academic projects.
-- **Achievements:** List scholarships, hackathon wins, or certifications.
-- **Blog/Portfolio:** If you write articles or have a portfolio, include links.
-- **Volunteer Work:** Mention any community or open-source contributions.
-
-*Feel free to expand your profile as you grow in your journey!*
-
+<!-- You can add more sections or achievements here as you grow! -->

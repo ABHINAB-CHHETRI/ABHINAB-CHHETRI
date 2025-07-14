@@ -1,10 +1,12 @@
-### 🏅 Notable Profiles
+### 🏅 Kaggle Stats & Badges
 
 <p align="center">
-  <!-- Kaggle Stats: Simple Tier & Medals Badge (dynamic) -->
+  <!-- Simple overall Kaggle tier and medals badge -->
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/abhinabbudhachheri" alt="Kaggle Stats" />
+
   <br><br>
-  <!-- Kaggle Medals by Category (dynamic) -->
+
+  <!-- Detailed badges by category -->
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhinabbudhachheri/competition" alt="Kaggle Competition Badge"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhinabbudhachheri/dataset" alt="Kaggle Dataset Badge"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhinabbudhachheri/notebook" alt="Kaggle Notebook Badge"/>

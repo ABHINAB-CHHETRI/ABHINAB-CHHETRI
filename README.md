@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://kaggle.com/abhinabbudhachheri" target="_blank">
-    <!-- Static Kaggle Profile Badge (always works) -->
+    <!-- Static Kaggle Profile Badge (always visible and reliable) -->
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
   </a>
   <a href="https://leetcode.com/u/abhinab_chhetri/" target="_blank">
@@ -40,31 +40,36 @@
 
 ---
 
-### 🏅 Kaggle Badges & Medals
+### 🏅 Notable Profiles
 
 <p align="center">
-  <!-- Dynamic Kaggle competition medals badge (may not always work) -->
-  <a href="https://kaggle.com/abhinabbudhachheri" target="_blank">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhinabbudhachheri/competition" alt="Kaggle Competition Badge"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abhinab-budha-chheri-46b47a350/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Dataset medals -->
+  <!-- Kaggle Static Profile Badge -->
   <a href="https://kaggle.com/abhinabbudhachheri" target="_blank">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhinabbudhachheri/dataset" alt="Kaggle Dataset Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile"/>
   </a>
-  <!-- Notebook medals -->
-  <a href="https://kaggle.com/abhinabbudhachheri" target="_blank">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhinabbudhachheri/notebook" alt="Kaggle Notebook Badge"/>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/abhinab_chhetri/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <!-- Discussion medals -->
-  <a href="https://kaggle.com/abhinabbudhachheri" target="_blank">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/abhinabbudhachheri/discussion" alt="Kaggle Discussion Badge"/>
+  <!-- Email -->
+  <a href="mailto:achheri_be23@thapar.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
+<!-- Kaggle Medals Screenshot for Reliable Display -->
+<p align="center">
+  <a href="https://kaggle.com/abhinabbudhachheri" target="_blank">
+    <!-- Replace this URL with your actual uploaded Kaggle medals screenshot -->
+    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/kaggle_medals.png" alt="Kaggle Medals" width="400"/>
+  </a>
+</p>
 
-### 🏅 Notable Profiles
-
+<!-- Optional LeetCode Stats Card -->
 <p align="center">
   <a href="https://leetcode.com/u/abhinab_chhetri/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/abhinab_chhetri?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats"/>
@@ -74,4 +79,5 @@
 ---
 
 <!-- You can add more sections or achievements here as you grow! -->
+
 

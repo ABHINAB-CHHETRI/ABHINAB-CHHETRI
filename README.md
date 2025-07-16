@@ -1,6 +1,6 @@
 <h1 align="center">💫 Abhinab Chhetri</h1>
 <h3 align="center">
-  From Nepal | 2nd Year Computer Science Student<br>
+  From Nepal | 3rd Year Computer Science Student<br>
   Passionate about building a strong foundation in CS and solving real-world challenges through code.
 </h3>
 

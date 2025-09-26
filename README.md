@@ -14,37 +14,27 @@ I'm a third-year Computer Science student from Nepal,I find **system programming
 ---
 
 ## 🛠️ Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="20"/>
 
----
 
 Check out my repositories to see my latest projects!
-
 ---
 
-## 📊 GitHub Stats
-![Abhinab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABHINAB-CHHETRI&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAB-CHHETRI&layout=compact&theme=radical)
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/ABHINAB-CHHETRI/count.svg)
+## # Profile Views Counter
+![Profile Views](https://komarev.com/ghpvc/?username=ABHINAB-CHHETRI&style=flat&color=brightgreen&label=Views)
 
 ---
 
 ## 📬 Let's Connect
 I'm always excited to talk about **system programming**, **Linux**, or just geek out over code. Feel free to reach out!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 GitHub: [ABHINAB-CHHETRI](https://github.com/ABHINAB-CHHETRI)
+- 📧 Email: [achheri_be23@thapar.edu](mailto:achheri_be23@thapar.edu)
 - 💬 Discord: [lol will add later](#)
 
 ---
-
-*“Keep it simple, keep it fast*
+*“Don's complicate it"*
 

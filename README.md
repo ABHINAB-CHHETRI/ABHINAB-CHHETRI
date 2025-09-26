@@ -13,15 +13,13 @@ Check out my repositories to see my latest projects!
 - 🛠️ Building small, weird but efficient tools and projects 
 - 🌱 Always learning to optimize code and understand logic better
 
----
 
 ## 🛠️ Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="20"/>
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60"/>
+
 
 ## # Profile Views Counter
 <img src="https://komarev.com/ghpvc/?username=ABHINAB-CHHETRI&style=flat&color=brightgreen&label=Views" alt="Profile Views" width="100" height="50" />
----
 
 ## 📬 Let's Connect
 I'm always excited to talk about **system programming**, **Linux**, or just geek out over code. Feel free to reach out!

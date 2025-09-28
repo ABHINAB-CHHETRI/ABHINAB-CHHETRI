@@ -8,7 +8,7 @@ Check out my repositories to see my latest projects!
 ---
 
 ## 🚀 About Me
-- 🎓 Studying **Computer Science** (3rd year) in Nepal
+- 🎓 Studying **Computer Science** (3rd year)
 - 💻 **system programming**, Linux internals (low level code)
 - 🛠️ Building small, weird but efficient tools and projects 
 - 🌱 Always learning to optimize code and understand logic better

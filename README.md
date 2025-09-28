@@ -1,6 +1,6 @@
 # 🍀 Namaste! I'm Abhinab Chhetri. Welcome to my profile.
 
-I'm a third-year Computer Science student from Nepal,I find **system programming** and **low-level coding** really funnnn. I love diving into the intricacies of **Linux** and crafting efficient, close-to-binary programs. Inspired by legends like **Terry A. Davis** (creator of TempleOS) and **LocalThunk** (solo dev of Balatro). Don't underestimate power of simple, purposeful code.
+I'm a third-year Computer Science student from Nepal,I find **system programming** and **low-level coding** really funnnn. I love diving into the intricacies of **Linux** and crafting efficient, close-to-binary programs. Inspire **Terry A. Davis** (creator of TempleOS) and **LocalThunk** (solo dev of Balatro). Don't underestimate power of simple, purposeful code.
 
 Check out my repositories to see my latest projects!
 

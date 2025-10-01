@@ -1,6 +1,6 @@
 # 🍀 Namaste! I'm Abhinab Chhetri. Welcome to my profile.
 
-I'm a third-year Computer Science student from Nepal,I find **system programming** and **low-level coding** really funnnn. I love diving into the intricacies of **Linux** and crafting efficient, close-to-binary programs. Inspire **Terry A. Davis** (creator of TempleOS) and **LocalThunk** (solo dev of Balatro). Don't underestimate power of simple, purposeful code.
+I'm a third-year Computer Science student from Nepal,I find **system programming** and **low-level coding** really funnnn. I love diving into the intricacies of **Linux** and crafting efficient, close-to-binary programs. I loop uo to **David Heinemeier Hansson**, **Terry A. Davis** (creator of TempleOS) and **LocalThunk** (solo dev of Balatro). Don't underestimate power of simple, purposeful code.
 
 Check out my repositories to see my latest projects!
 
@@ -15,7 +15,8 @@ Check out my repositories to see my latest projects!
 
 
 ## 🛠️ Tech Stack
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" height="60"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60"/>
 
 
 ## # Profile Views Counter

@@ -22,5 +22,5 @@ I'm always excited to talk about **system programming**, **Linux**, or just geek
 - 💬 Discord: [lol will add later](#)
 
 ---
-*“Don's complicate it"*
+*“Dont's complicate it"*
 

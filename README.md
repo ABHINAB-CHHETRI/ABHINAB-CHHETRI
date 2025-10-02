@@ -2,7 +2,7 @@
 
 I'm a third-year Computer Science student from Nepal,I find **system programming** and **low-level coding** fun. I diver into the rabbit hole of **Linux** in my free time. I loop up to **Terry A. Davis** (creator of TempleOS) and **LocalThunk** (solo dev of Balatro). Don't underestimate power of simple, purposeful code.
 
-Check out my repositories to see my latest projects!
+Check out my repositories to see my latest projects! (!! making my own shell in LUA - BEER_shell)
 
 > "Code is binary art when it's made just for the fun of it."  
 ---

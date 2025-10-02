@@ -7,13 +7,6 @@ Check out my repositories to see my latest projects! (!! making my own shell in 
 > "Code is binary art when it's made just for the fun of it."  
 ---
 
-## 🚀 About Me
-- 🎓 Studying **Computer Science** (3rd year)
-- 💻 **system programming**, Linux internals (low level code)
-- 🛠️ Building small, weird but efficient tools and projects 
-- 🌱 Always learning to optimize code and understand logic better
-
-
 ## 🛠️ Tech Stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" height="60"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60"/>

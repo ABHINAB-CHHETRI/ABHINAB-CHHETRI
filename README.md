@@ -18,7 +18,7 @@ Check out my repositories to see my latest projects! (!! making my own shell in 
 ## 📬 Let's Connect
 I'm always excited to talk about **system programming**, **Linux**, or just geek out over code. Feel free to reach out!
 
-- 📧 Email: [achheri_be23@thapar.edu](mailto:achheri_be23@thapar.edu)
+- 📧 Email: [later](mailto:wal)
 - 💬 Discord: [lol will add later](#)
 
 ---

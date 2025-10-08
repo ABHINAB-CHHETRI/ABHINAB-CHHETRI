@@ -24,7 +24,7 @@ I'm always excited to talk about **system programming**, **Linux**, or just geek
 *“Dont's complicate it"*
 
 ---
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Abhinab_Chhetri)](https://leetcode.com/YourLeetCodeUsername)
 
-![leetcode stats](https://leetcode-stats-api.herokuapp.com/Abhinab_Chhetri)
 
 

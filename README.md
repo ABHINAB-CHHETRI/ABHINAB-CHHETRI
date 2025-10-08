@@ -25,7 +25,5 @@ I'm always excited to talk about **system programming**, **Linux**, or just geek
 
 ---
 
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Abhinab_Chhetri)](https://leetcode.com/Abhinab_Chhetri)
 
-
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhinab_Chhetri)](https://leetcode.com/Abhinab_Chhetri)

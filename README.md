@@ -3,6 +3,6 @@
 
 ![Dev Quote](https://git-card-api.onrender.com/quote/text)
 
-*sensei : Sajid "Kakashi" Miya//
+*MENTOR/SENSI : Sajid "Kakashi" Miya//
 Github Link : https://github.com/miyasajid19 *
 
